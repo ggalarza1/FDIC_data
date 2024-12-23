@@ -5,8 +5,6 @@ This repository explores the data from the Federal Deposit Insurance Corporation
 ```
 pip install fdicdata
 
-import fdicdata as fdic
-
 ```
 
 # Data Exploration
