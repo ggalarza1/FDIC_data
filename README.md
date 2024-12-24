@@ -10,7 +10,7 @@ pip install fdicdata
 # Data Exploration
 
 This code comes from this repository: https://github.com/Visbanking/fdicdataPy/tree/main?tab=readme-ov-file.
-I've modified it to explore the data a bit more. As well created my own findings.
+I've modified it to explore the data a bit more. As well create my own findings.
 
 ```
 import fdicdata as fdic
